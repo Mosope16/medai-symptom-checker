@@ -1,7 +1,7 @@
 # 🏥 MEDAI – AI-Powered Symptom Checker
 
 **AI-powered symptom checker in C++ for fast, offline health insights.**  
-Built as part of the **DATICAN Medical AI Challenge**, MEDAI helps users quickly understand their symptoms and decide whether they should seek medical attention — without relying on internet searches or storing sensitive data.
+MEDAI helps users quickly understand their symptoms and decide whether they should seek medical attention — without relying on internet searches or storing sensitive data.
 
 ---
 
