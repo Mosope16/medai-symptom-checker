@@ -52,8 +52,8 @@ Many people either ignore symptoms or panic after searching them online.
    ```bash
    git clone https://github.com/Mosope16/MEDAI.git
    cd MEDAI
-2. g++ main.cpp -o medai
-3. ./medai
+   g++ main.cpp -o medai
+   ./medai
 
 ---
 
