@@ -81,3 +81,6 @@ This project is licensed under the MIT License — see the LICENSE file for deta
 
 ## 🙌 Acknowledgements
 - All open-source libraries and resources used
+- Thank God!!
+- And my Parents, my Dad was really helpful
+- And a few friends, that helped along the way!!!
