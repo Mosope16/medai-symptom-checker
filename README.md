@@ -72,3 +72,11 @@ Many people either ignore symptoms or panic after searching them online.
  - Improve NLP accuracy for symptom parsing
  - Add GUI version with wxWidgets
  - Enable multi-language support
+
+---
+
+## 📄 License
+This project is licensed under the MIT License — see the LICENSE file for details.
+
+## 🙌 Acknowledgements
+- All open-source libraries and resources used
