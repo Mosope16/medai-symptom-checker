@@ -51,10 +51,10 @@ Many people either ignore symptoms or panic after searching them online.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Mosope16/MEDAI.git
-   cd MEDAI
-   g++ main.cpp -o medai
-   ./medai
+   git clone https://github.com/Mosope16/medai-symptom-checker.git
+   cd medai-symptom-checker
+   g++ main.cpp -o medAI
+   ./medAI
 
 ---
 
