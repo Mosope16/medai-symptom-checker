@@ -11,6 +11,7 @@ MEDAI helps users quickly understand their symptoms and decide whether they shou
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
+- ![MEDAI Demo](screenshots/demo.png)
 - [Roadmap](#roadmap)
 - [License](#license)
 
