@@ -49,7 +49,6 @@ Many people either ignore symptoms or panic after searching them online.
 
 ## 🚀 Installation
 
-1. **Clone the repository**
    ```bash
    git clone https://github.com/Mosope16/medai-symptom-checker.git
    cd medai-symptom-checker
