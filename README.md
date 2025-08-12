@@ -67,4 +67,8 @@ Many people either ignore symptoms or panic after searching them online.
 
 ---
 
-## Roadmap
+## 🗺Roadmap
+ - Add more symptoms and conditions to the database
+ - Improve NLP accuracy for symptom parsing
+ - Add GUI version with wxWidgets
+ - Enable multi-language support
