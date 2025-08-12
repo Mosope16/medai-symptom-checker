@@ -7,17 +7,17 @@ MEDAI helps users quickly understand their symptoms and decide whether they shou
 
 ## 📌 Table of Contents
 - [About](#About)
-- [Features](#features)
-- [Tech Stack](#tech-stack)
+- [Features](#Features)
+- [Tech Stack](#Tech-stack)
 - [Installation](#Installation)
-- [Usage](#usage)
+- [Usage](#Usage)
 - [MEDAI Demo](screenshots/demo.png)
 - [Roadmap](#Roadmap)
 - [License](#License)
 
 ---
 
-## 📖 About
+## 📖About
 
 Many people either ignore symptoms or panic after searching them online.  
 **MEDAI** bridges that gap by providing:
@@ -28,7 +28,7 @@ Many people either ignore symptoms or panic after searching them online.
 
 ---
 
-## ✨ Features
+## ✨Features
 
 - 📝 Accepts symptoms in plain text  
 - 🤖 Suggests possible medical conditions instantly  
@@ -39,7 +39,7 @@ Many people either ignore symptoms or panic after searching them online.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠Tech Stack
 
 - **Language:** C++  
 - **Database:** (If applicable — SQLite / JSON / File I/O)  
@@ -48,7 +48,7 @@ Many people either ignore symptoms or panic after searching them online.
 
 ---
 
-## 🚀 Installation
+## 🚀Installation
 - Command Promt
    ```bash
    git clone https://github.com/Mosope16/medai-symptom-checker.git
@@ -58,7 +58,7 @@ Many people either ignore symptoms or panic after searching them online.
 
 ---
 
-## 💻 Usage
+## 💻Usage
 - Launch the program
 - Enter your symptoms in plain English
 - Receive:
@@ -76,10 +76,10 @@ Many people either ignore symptoms or panic after searching them online.
 
 ---
 
-## 📄 License
+## 📄License
 This project is licensed under the MIT License — see the LICENSE file for details.
 
-## 🙌 Acknowledgements
+## 🙌Acknowledgements
 - All open-source libraries and resources used
 - Thank God!!
 - And my Parents, my Dad was really helpful
