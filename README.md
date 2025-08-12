@@ -6,14 +6,14 @@ MEDAI helps users quickly understand their symptoms and decide whether they shou
 ---
 
 ## 📌 Table of Contents
-- [About](#📖About)
+- [About](#About)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
-- [Installation](#installation)
+- [Installation](#Installation)
 - [Usage](#usage)
 - [MEDAI Demo](screenshots/demo.png)
-- [Roadmap](#roadmap)
-- [License](#license)
+- [Roadmap](#Roadmap)
+- [License](#License)
 
 ---
 
