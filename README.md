@@ -58,12 +58,12 @@ Many people either ignore symptoms or panic after searching them online.
 ---
 
 ## 💻 Usage
-Launch the program
-Enter your symptoms in plain English
-Receive:
-Possible conditions
-Recommended urgency level
-Use responsibly — MEDAI is not a substitute for professional diagnosis.
+- Launch the program
+- Enter your symptoms in plain English
+- Receive:
+- Possible conditions
+- Recommended urgency level
+- Use responsibly — MEDAI is not a substitute for professional diagnosis.
 
 ---
 
