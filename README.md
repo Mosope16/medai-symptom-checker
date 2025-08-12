@@ -9,6 +9,9 @@ Built as part of the **DATICAN Medical AI Challenge**, MEDAI helps users quickly
 - [About](#about)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
+- [Usage](#usage)
+- [Roadmap](#roadmap)
+- [License](#license)
 
 ---
 
