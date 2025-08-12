@@ -45,3 +45,26 @@ Many people either ignore symptoms or panic after searching them online.
 - **Platform:** Cross-platform (Windows / Linux)
 
 ---
+
+## 🚀 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/Mosope16/MEDAI.git
+   cd MEDAI
+2. g++ main.cpp -o medai
+3. ./medai
+
+---
+
+## 💻 Usage
+Launch the program
+Enter your symptoms in plain English
+Receive:
+Possible conditions
+Recommended urgency level
+Use responsibly — MEDAI is not a substitute for professional diagnosis.
+
+---
+
+## Roadmap
