@@ -37,7 +37,7 @@ map<string, vector<string>> diseaseDB = {
 };
 
 int main() {
-    cout << "MedAI Offline Symptom Checker {by yours truly}\n";
+    cout << "MedAI Offline Symptom Checker [DevByPaul]\n";
     cout << "Type 'exit' to quit anytime.\n";
 
     while (true) {
